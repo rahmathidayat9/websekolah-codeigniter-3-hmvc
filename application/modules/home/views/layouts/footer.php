@@ -57,11 +57,11 @@
                     <div class="col-12">
                         <!-- Footer Logo -->
                         <div class="footer-logo">
-                            <a href="" class="text-light" style="font-weight: bold; font-size: 20px;">SMK-YPC TASIKMALAYA</a>
+                            <a href="" class="text-light" style="font-weight: bold; font-size: 20px;">SMK-TSM</a>
                         </div>
                         <!-- Copywrite -->
                         <p><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> , SMK-YPC TASIKMALAYA All rights reserved <a href="https://colorlib.com" target="_blank"></a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> , SMK-TSM All rights reserved <a href="https://colorlib.com" target="_blank"></a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     </div>
                 </div>
@@ -73,7 +73,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> , SMK
             <!-- Contact Info -->
             <div class="contact-info">
                 <a href="#"><span>NO HP:</span> +62987346523</a>
-                <a href="#"><span>Email:</span> smkypc@sch.com</a>
+                <a href="#"><span>Email:</span> smktsm@sch.com</a>
             </div>
             <!-- Follow Us -->
             <div class="follow-us">

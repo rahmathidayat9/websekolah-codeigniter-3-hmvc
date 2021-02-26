@@ -6,7 +6,7 @@
                 <div class="col-12">
                     <!-- Hero Content -->
                     <div class="hero-content text-center">
-                        <h2>SMK-YPC TASIKMALAYA</h2>
+                        <h2>SMK-TSM</h2>
                         <span class="btn clever-btn">#SMK BISA</span>
                         
                     </div>
@@ -23,8 +23,8 @@
             <div class="card-header"></div>
             <div class="card-body">
                 <blockquote class="blockquote text-center">
-                  <p class="mb-0">SMK-YPC TASIKMALAYA , siap belajar , siap berusaha , siap sukses , Allahuakbar !</p>
-                  <footer class="blockquote-footer"><cite title="Source Title">SMK-YPC TASIKMALAYA</cite></footer>
+                  <p class="mb-0">SMK-TSM , siap belajar , siap berusaha , siap sukses , Allahuakbar !</p>
+                  <footer class="blockquote-footer"><cite title="Source Title">SMK-TSM</cite></footer>
                 </blockquote>
             </div>
         </div>

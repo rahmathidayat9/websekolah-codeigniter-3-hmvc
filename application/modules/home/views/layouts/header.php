@@ -38,7 +38,7 @@
             <!-- Contact Info -->
             <div class="contact-info">
                 <a href="#"><span>Telp:</span> +62 8772 9944 </a>
-                <a href="#"><span>Email:</span> smkypc@sch.com</a>
+                <a href="#"><span>Email:</span> smktsm@sch.com</a>
             </div>
             <!-- Follow Us -->
             <div class="follow-us">

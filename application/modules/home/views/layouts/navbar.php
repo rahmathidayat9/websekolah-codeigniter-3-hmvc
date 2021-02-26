@@ -9,8 +9,8 @@
 
                     <!-- Logo -->
                     <a class="nav-brand" href="" alt="">
-                        <img src="<?= base_url('asset/img/logo/logo-ypc.png') ?>" width="45">
-                        SMK-YPC
+                        <img src="<?= base_url('asset/img/background/logo-codeigniter.png') ?>" width="45">
+                        SMK-TSM
                     </a>
 
                     <!-- Navbar Toggler -->
